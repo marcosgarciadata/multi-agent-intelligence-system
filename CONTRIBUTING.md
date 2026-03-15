@@ -1,5 +1,3 @@
-# Documentation
+# Contributing to multi agent intelligence system
 
-Generated documentation for cowry.
-
-## Doc Update 2025-10-20
+We welcome contributions! Please follow the standard Pull Request process. Ensure all code passes linting and unit tests.
